@@ -1,0 +1,15 @@
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.exe
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.deps.json
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.runtimeconfig.json
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.dll
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.pdb
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.dll
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\obj\Debug\net7.0\refint\Example001_HelloConsole.dll
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.pdb
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.genruntimeconfig.cache
+C:\Костылев\Учеба\Знакомство с C#\Лекции\1_лекция_29.08.23\Example001_HelloConsole\obj\Debug\net7.0\ref\Example001_HelloConsole.dll
